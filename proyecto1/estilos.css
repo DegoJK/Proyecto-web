@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MiFuentePersonalizada';
+    src: url('fuentes/Iklanin.ttf') format('ttf');
+    /* Agrega otros formatos de fuente si es necesario */
+}
+
+body {
+    font-family: 'MiFuentePersonalizada', sans-serif;
+}
